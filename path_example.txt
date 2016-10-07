@@ -1,1 +1,1 @@
-C:\bin\app_version;%php_path%;%nodejs_path%;%python_path%;%python_path%\Scripts;%ruby_path%\bin;%COMPOSER_HOME%;%COMPOSER_HOME%\vendor\bin;
+C:\bin\_version;%php_path%;%nodejs_path%;%python_path%;%python_path%\Scripts;%ruby_path%\bin;%COMPOSER_HOME%;%COMPOSER_HOME%\vendor\bin;
